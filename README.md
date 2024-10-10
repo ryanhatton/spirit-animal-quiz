@@ -9,8 +9,8 @@ This project is a [Next.js](https://nextjs.org) application built with TypeScrip
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/ryanhatton/form-challenge.git
-   cd ryanhatton-form
+   git clone https://github.com/ryanhatton/spirit-animal-quiz.git
+   cd spirit-animal-quiz
    ```
 
 2. **Install dependencies:**
